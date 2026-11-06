@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://orion-fcm-worker.gaim.workers.dev/download-ota/v1.1.1/bundle.zip",
-  "checksum": "7d0c1323d75e84b4007822ca37e530ad69ae6276602972cfdf82a00c2e358dc9",
-  "notes": "Orion Chat v1.1.1: Fix linkifyAndEmbed crash and optimize rendering"
+  "version": "1.1.2",
+  "url": "https://orion-fcm-worker.gaim.workers.dev/download-ota/v1.1.2/bundle.zip",
+  "checksum": "a4ca1018d5653a3aa2a01e4484e4db31bb7cf7d6ac56562ea08834793e906dfa",
+  "notes": "Orion Chat v1.1.2: Clean OTA cache-busting release"
 }
