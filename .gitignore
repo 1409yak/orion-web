@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+
+# Node modules
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / Output directories & temp files
+dist/
+build/
+*.log
